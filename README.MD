@@ -139,6 +139,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
 - [Folicle](https://folicle.app/) - Hair-growth tracker with aligned scalp photos, a numeric Hair Score over time, and dermatologist-ready exports; non-diagnostic (iOS, Android).
 - [FixFirst](https://fixfirst.health) - Free tool that analyzes uploaded blood-test PDFs and ranks health priorities using age- and sex-adjusted thresholds; no account required (Web).
+- [BodyMap](https://github.com/Lyrapower/bodymap) - Tap where it hurts on a 3D body to keep a local-first record of pain and symptoms, with an export a clinician can read (Web).
 
 ### Heart
 - [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - Fast and accurate mobile heart rate monitor (iOS, Android, Windows).
